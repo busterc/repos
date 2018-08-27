@@ -1,7 +1,7 @@
 {
   "name": "@buster/repos",
   "description": "Tiny wrapper around github-base for getting publicly available information for a repository, or all of the repositories for one or more users or orgs, from the GitHub API.",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "homepage": "https://github.com/busterc/repos",
   "author": "Buster Collings (https://github.com/busterc)",
   "repository": "busterc/repos",
