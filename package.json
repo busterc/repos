@@ -1,12 +1,12 @@
 {
-  "name": "repos",
+  "name": "@buster/repos",
   "description": "Tiny wrapper around github-base for getting publicly available information for a repository, or all of the repositories for one or more users or orgs, from the GitHub API.",
-  "version": "2.0.0",
-  "homepage": "https://github.com/jonschlinkert/repos",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/repos",
+  "version": "1.0.0",
+  "homepage": "https://github.com/busterc/repos",
+  "author": "Buster Collings (https://github.com/busterc)",
+  "repository": "busterc/repos",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/repos/issues"
+    "url": "https://github.com/busterc/repos/issues"
   },
   "license": "MIT",
   "files": [
